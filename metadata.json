@@ -1,0 +1,7 @@
+{
+  "name": "RCdeRC Trip Location Finder",
+  "description": "A retro-future cycling trip planner for the RCdeRC club, using Gemini to find the perfect location based on distance, terrain, cost, and weather.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
